@@ -1,0 +1,56 @@
+h1{
+	background-color:pink;
+	color:forestgreen;
+}
+.education{
+	color:crimson;
+}
+p{
+	color:forestgreen;
+}
+.country{
+	color:crimson;
+}
+.tool{
+	color:crimson;
+}
+.Counselling{
+	color:crimson;
+}
+#blog{
+	background-color:lightskyblue;
+	font-style:bold;
+	color:crimson;
+	padding:10px;
+	font-size:14px;
+	font-style:italic;
+	margin:2px
+	
+}
+.chak{
+	color:darkred;
+	font-style:bold;
+	text-align:center;
+}
+.a{
+	color:mediumvioletred;
+}
+.form{
+	color:forestgreen;
+}
+.heading .r{
+	color:mediumvioletred;
+}
+table{
+	color:mediumvioletred;
+}
+small{
+	color:blue;
+}
+
+body{
+	 background-color:lavenderblush;
+}
+#batton{
+	color:red;
+}
